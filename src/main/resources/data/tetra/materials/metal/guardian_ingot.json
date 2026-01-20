@@ -1,0 +1,38 @@
+{
+  "key": "guardian_ingot",
+  "category": "metal",
+  "primary": 10,
+  "secondary": 3.2,
+  "tertiary": 0,
+  "durability": 1000,
+  "integrityCost": 1,
+  "integrityGain": 2,
+  "magicCapacity": 65,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 10,
+  "effects": {
+    "aquatic": [
+      1,
+      0.1
+    ]
+  },
+  "tints": {
+    "glyph": "b4d8ca",
+    "texture": "b4d8ca"
+  },
+  "textures": [
+    "shiny",
+    "crude"
+  ],
+  "material": {
+    "items": [
+      "celestial_core:guardian_ocean_ingot"
+    ]
+  },
+  "improvements": {
+    "arrested": 0
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key": "sakura_steel",
+  "category": "metal",
+  "primary": 9,
+  "secondary": 2.1,
+  "tertiary": 1,
+  "durability": 260,
+  "integrityCost": 1,
+  "integrityGain": 2,
+  "magicCapacity": 50,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 8,
+  "effects": {
+    "nature": [
+      1,
+      0.1
+    ]
+  },
+  "tints": {
+    "glyph": "ffb0d2",
+    "texture": "ffb0d2"
+  },
+  "textures": [
+    "shiny",
+    "crude"
+  ],
+  "material": {
+    "items": [
+      "celestial_core:sakura_steel"
+    ]
+  },
+  "improvements": {
+    "arrested": 0
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "tetra.material.earth_core": "Earth Core",
+  "tetra.material.earth_core.prefix": "Earth Core",
+  "tetra.material.guardian_ingot": "Guardian Ingot",
+  "tetra.material.guardian_ingot.prefix": "Guardian Ingot",
+  "tetra.material.ocean_ingot": "Ocean Ingot",
+  "tetra.material.ocean_ingot.prefix": "Ocean Ingot",
+  "tetra.material.sakura_steel": "Sakura Steel",
+  "tetra.material.sakura_steel.prefix": "Sakura Steel",
+  "tetra.material.virtual_gold": "Virtual Gold",
+  "tetra.material.virtual_gold.prefix": "Virtual Gold",
+  "tetra.stats.aquatic": "Aquatic",
+  "tetra.stats.aquatic.tooltip_short": "Offset the underwater excavation penalty",
+  "tetra.stats.fabricated": "Fabricated",
+  "tetra.stats.fabricated.tooltip_short": "Each enchantment on this weapon increases attack damage and mining speed",
+  "tetra.stats.nature": "Nature",
+  "tetra.stats.nature.tooltip_short": "The tool slowly regains durability in the backpack"
+}

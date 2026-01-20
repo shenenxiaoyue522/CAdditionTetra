@@ -1,0 +1,35 @@
+{
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "celestial_artifacts"
+    }
+  ],
+  "key": "earth_core",
+  "category": "metal",
+  "primary": 7.24,
+  "secondary": 2.9,
+  "tertiary": 3.5,
+  "durability": 2450,
+  "integrityCost": 2,
+  "integrityGain": 7,
+  "magicCapacity": 100,
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": 12,
+  "tints": {
+    "glyph": "143188143",
+    "texture": "8fbc8f"
+  },
+  "textures": [
+    "heavy",
+    "metal"
+  ],
+  "material": {
+    "items": [
+      "celestial_core:earth_core"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "key": "virtual_gold",
+  "category": "metal",
+  "primary": 12,
+  "secondary": 4.8,
+  "tertiary": 0.5,
+  "durability": 1200,
+  "integrityCost": 3,
+  "integrityGain": 3,
+  "magicCapacity": 120,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 12,
+  "effects": {
+    "fabricated": [
+      1,
+      0.1
+    ]
+  },
+  "tints": {
+    "glyph": "cf3ca5",
+    "texture": "cf3ca5"
+  },
+  "textures": [
+    "shiny",
+    "crude"
+  ],
+  "material": {
+    "items": [
+      "celestial_core:virtual_gold_ingot"
+    ]
+  },
+  "improvements": {
+    "arrested": 0
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:gold"
+  }
+}

@@ -1,0 +1,125 @@
+[
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "celestial_artifacts"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "celestial_artifacts:earth_shovel"
+      ]
+    },
+    "item": "tetra:modular_single",
+    "modules": {
+      "single/head": [
+        "single/basic_shovel",
+        "basic_shovel/earth_core"
+      ],
+      "single/handle": [
+        "single/basic_handle",
+        "basic_handle/stick"
+      ]
+    },
+    "improvements": {
+      "single/head:arrested": 0
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "celestial_artifacts"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "celestial_artifacts:earth_pickaxe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_pickaxe_left",
+        "basic_pickaxe/earth_core"
+      ],
+      "double/head_right": [
+        "double/basic_pickaxe_right",
+        "basic_pickaxe/earth_core"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    },
+    "improvements": {
+      "double/head_left:arrested": 0,
+      "double/head_right:arrested": 0
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "celestial_artifacts"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "celestial_artifacts:earth_hoe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/hoe_left",
+        "hoe/earth_core"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/earth_core"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    },
+    "improvements": {
+      "double/head_left:arrested": 0,
+      "double/head_right:arrested": 0
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "celestial_artifacts"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "celestial_artifacts:earth_axe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/earth_core"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/earth_core"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    },
+    "improvements": {
+      "double/head_left:arrested": 0,
+      "double/head_right:arrested": 0
+    }
+  }
+]

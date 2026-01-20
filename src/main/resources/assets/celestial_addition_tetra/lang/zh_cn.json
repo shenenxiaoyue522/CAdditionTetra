@@ -1,0 +1,18 @@
+{
+  "tetra.material.ocean_ingot": "海洋锭",
+  "tetra.material.ocean_ingot.prefix": "海洋锭",
+  "tetra.material.guardian_ingot": "守卫者锭",
+  "tetra.material.guardian_ingot.prefix": "守卫者锭",
+  "tetra.material.sakura_steel": "樱花钢",
+  "tetra.material.sakura_steel.prefix": "樱花钢",
+  "tetra.material.virtual_gold": "虚金锭",
+  "tetra.material.virtual_gold.prefix": "虚金锭",
+  "tetra.material.earth_core": "大地核心",
+  "tetra.material.earth_core.prefix": "大地核心",
+  "tetra.stats.aquatic": "水生",
+  "tetra.stats.aquatic.tooltip_short": "抵消水下挖掘惩罚",
+  "tetra.stats.nature": "自然",
+  "tetra.stats.nature.tooltip_short": "工具会在背包中缓慢恢复耐久",
+  "tetra.stats.fabricated": "虚妄",
+  "tetra.stats.fabricated.tooltip_short": "该武器每带有1种附魔都能提高攻击伤害与挖掘速度"
+}

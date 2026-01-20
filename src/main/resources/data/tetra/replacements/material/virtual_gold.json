@@ -1,0 +1,130 @@
+[
+  {
+    "predicate": {
+      "items": [
+        "celestial_core:virtual_gold_sword"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/basic_blade",
+        "basic_blade/virtual_gold"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/virtual_gold"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/virtual_gold"
+      ]
+    },
+    "improvements": {
+      "sword/blade:arrested": 0
+    }
+  },
+  {
+    "predicate": {
+      "items": [
+        "celestial_core:virtual_gold_shovel"
+      ]
+    },
+    "item": "tetra:modular_single",
+    "modules": {
+      "single/head": [
+        "single/basic_shovel",
+        "basic_shovel/virtual_gold"
+      ],
+      "single/handle": [
+        "single/basic_handle",
+        "basic_handle/stick"
+      ]
+    },
+    "improvements": {
+      "single/head:arrested": 0
+    }
+  },
+  {
+    "predicate": {
+      "items": [
+        "celestial_core:virtual_gold_pickaxe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_pickaxe_left",
+        "basic_pickaxe/virtual_gold"
+      ],
+      "double/head_right": [
+        "double/basic_pickaxe_right",
+        "basic_pickaxe/virtual_gold"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    },
+    "improvements": {
+      "double/head_left:arrested": 0,
+      "double/head_right:arrested": 0
+    }
+  },
+  {
+    "predicate": {
+      "items": [
+        "celestial_core:virtual_gold_hoe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/hoe_left",
+        "hoe/virtual_gold"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/virtual_gold"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    },
+    "improvements": {
+      "double/head_left:arrested": 0,
+      "double/head_right:arrested": 0
+    }
+  },
+  {
+    "predicate": {
+      "items": [
+        "celestial_core:virtual_gold_axe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/virtual_gold"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/virtual_gold"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    },
+    "improvements": {
+      "double/head_left:arrested": 0,
+      "double/head_right:arrested": 0
+    }
+  }
+]

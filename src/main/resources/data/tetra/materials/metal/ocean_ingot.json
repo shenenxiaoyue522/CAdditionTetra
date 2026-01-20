@@ -1,0 +1,32 @@
+{
+  "key": "ocean_ingot",
+  "category": "metal",
+  "primary": 8,
+  "secondary": 3,
+  "tertiary": 0,
+  "durability": 800,
+  "integrityCost": 1,
+  "integrityGain": 1,
+  "magicCapacity": 60,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 8,
+  "tints": {
+    "glyph": "b4d8ca",
+    "texture": "b4d8ca"
+  },
+  "textures": [
+    "shiny",
+    "crude"
+  ],
+  "material": {
+    "items": [
+      "celestial_core:ocean_ingot"
+    ]
+  },
+  "improvements": {
+    "arrested": 0
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}
